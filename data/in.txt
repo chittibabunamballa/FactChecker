@@ -1,0 +1,50 @@
+Delhi is the capital of India 1
+YSR is the chief minister of Andhrapradesh 1
+Nile is the longest river in the world 1
+Rajendra Prasad is the first president of India 1
+Hyderabad is the capital of India 0
+Hindi is the national language of India 1
+Hockey is the national game for India 1
+Rajasthan is the smallest state in India 0
+First Indian vice president is Sarvepalli Radhakrisnan 1
+Indira gandhi is the first woman prime minister of India 1
+Jupiter is smallest planet 0
+Australia is the smallest continent in the world 1
+The biggest desert in the world is Sahara 1
+The highest mountain in the world is Mount Everest 1
+Krishna is the longest river in India 0
+Lion capital is the national emblem of India 1
+Wright brothers invented aero plane 1
+Sun rises in the east 1
+Kangaroo is the national symbol of Australia 1
+Eden gardens is in Kolkata 0
+Delhi is capital of India 1
+India is the smallest country in the world 0
+Cricket is the national game of Australia 1
+Cricket is the national game for India 0
+Rose is the national flower of England 1
+Lotus is the national flower of India 1
+Edison invented magnet 0
+Dollar is the currency of America 1
+Rupee is the currency of India 1
+Dhaka is the capital of Bangladesh 1
+Colombo is the capital of Sri Lanka 1
+London is the biggest city 1
+Nehru died in 1964 1
+Rajiv Gandhi died in 2009 0
+Africa is the biggest continent in the world 0
+Chennai is the new name for Bombay 0
+Rangarajan is the first governor of Andhra Pradesh 0
+First woman to climb Mount Everest is  Tabie 1
+First president of USA is Obama  0
+First Chairman of Rajyasabha is Radhakrishnan 1
+India won the cricket world cup in 1983 1
+Amazon is the longest river in the world 0
+Nippus invented camera 1
+Wright brothers invented helicopter 0
+Base ball is the national game of America 1
+Indira Gandhi is the first prime minister of India 0
+Rabindranath Tagore is the first Indian to win a Nobel Prize 1
+Chess was born in India 1
+The Art of Cricket is an autobiography of Bradman 1
+Super Computer was invented by emeagwali 1

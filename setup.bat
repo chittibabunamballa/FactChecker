@@ -1,0 +1,1 @@
+set CLASSPATH=.;../lib/common-logging.jar;../lib/junit-4.1.jar;../lib/jwnl.jar;../lib/montytagger.jar;%CLASSPATH%
